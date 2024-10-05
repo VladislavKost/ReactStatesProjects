@@ -1,13 +1,12 @@
 .projects {
   display: flex;
   flex-wrap: wrap;
-  flex-direction: column;
+  flex-direction: row;
   align-content: space-between;
   gap: 20px;
   width: 100%;
-  height: 1900px;
 }
 
 .item {
-  width: 33%;
+  width: 31%;
 }
